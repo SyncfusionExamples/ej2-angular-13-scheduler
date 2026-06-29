@@ -1,16 +1,11 @@
 # EJ2 Angular 13 Scheduler
 
-A comprehensive scheduling solution built with Angular 13 and Syncfusion EJ2 Scheduler component. This project demonstrates how to integrate and utilize the powerful Syncfusion Schedule component in an Angular 13 application for managing events, appointments, and resource scheduling.
-
-## Project Overview
-
-This sample application showcases the implementation of the Syncfusion EJ2 Angular Scheduler component. It provides a modern, feature-rich scheduling interface with support for multiple views, event management, and resource handling.
+This Angular 13 project demonstrates how to integrate and use [Angular Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler) to build a modern scheduling solution. It showcases managing events, appointments, and resources through a feature-rich interface with support for multiple views and efficient scheduling capabilities.
 
 ## Prerequisites
 
 - Node.js (v14 or higher)
 - Angular CLI version 13.0.1
-- Basic understanding of Angular and TypeScript
 
 ## Installation
 
